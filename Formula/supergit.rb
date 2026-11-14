@@ -1,8 +1,8 @@
 class Supergit < Formula
   desc "Git. Enhanced"
   homepage "https://github.com/hayamahamed/supergit"
-  url "https://github.com/hayamahamed/supergit/archive/refs/tags/supergit-v1.0.11.tar.gz"
-  sha256 "9182f5e43e61a1fcc3eea41a5a0e4a4d2121987f14571c105b8e9e1d32ff67d0"
+  url "https://github.com/hayamahamed/supergit/archive/refs/tags/supergit-v1.0.12.tar.gz"
+  sha256 "125ed570719e491927ac8e2efccf17a9e6847a8676fbc0975d2660918f88a02d"
   license "MIT"
   head "https://github.com/hayamahamed/supergit.git", branch: "main"
 
